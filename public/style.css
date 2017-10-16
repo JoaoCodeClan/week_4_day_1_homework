@@ -1,0 +1,58 @@
+body {
+
+  background-color: yellow;
+  background-repeat: no-repeat;
+
+}
+
+h1 {
+ font-family: 'Arabic', 'Times New Roman', sans-serif;
+ font-size: 38px;
+ color: white;
+ background-color: green;
+ position: relative;
+ margin: auto;
+ text-align: center;
+}
+
+h2 {
+ font-family: 'Arabic', 'Times New Roman', sans-serif;
+ font-size: 28px;
+ color: blue;
+
+ position: relative;
+ margin-top: 25px;
+ text-align: justify;
+}
+
+h3 {
+ font-family: 'Arabic', 'Times New Roman', sans-serif;
+ font-size: 40px;
+ color: blue;
+
+ position: relative;
+ margin-top: 25px;
+ text-align: center;
+ text-transform: capitalize;
+ 
+}
+
+p {
+ font-family: 'Arabic', 'Times New Roman', sans-serif;
+ font-size: 20px;
+ color: black;
+
+ position: relative;
+ margin-top: 50px;
+ text-align: justify;
+}
+
+a {
+ font-family: 'Arabic', 'Times New Roman', sans-serif;
+ font-size: 30px;
+ color: Purple;
+
+ position: relative;
+ margin-top: 25px;
+ text-align: justify;
+}
